@@ -3,11 +3,11 @@
 int main(){
 
     /* Problema "soma_linhas"
-    Fazer um programa para ler dois n˙meros inteiros M e N (m·ximo = 10). Em seguida, ler uma matriz
-    de M linhas e N colunas contendo n˙meros reais. Gerar um vetor de modo que cada elemento do vetor
+    Fazer um programa para ler dois n√∫meros inteiros M e N (m√°ximo = 10). Em seguida, ler uma matriz
+    de M linhas e N colunas contendo n√∫meros reais. Gerar um vetor de modo que cada elemento do vetor
     seja a soma dos elementos da linha correspondente da matriz. Mostrar o vetor gerado.
 
-    APrendizado: Para cada linha i da matriz, eu comeÁo a soma do zero, percorro todas as colunas j dessa linha e guardo o resultado em vetor[i].î
+    APrendizado: Para cada linha i da matriz, eu come√ßo a soma do zero, percorro todas as colunas j dessa linha e guardo o resultado em vetor[i].‚Äù
     */
 
 
