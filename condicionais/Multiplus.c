@@ -3,8 +3,8 @@
 int main(){
 /*
 Problema "multiplos" (adaptado de URI 1044)
-Fazer um programa para ler dois números inteiros, e dizer se um número é múltiplo do outro. Os
-números podem ser digitados em qualquer ordem.*/
+Fazer um programa para ler dois nÃºmeros inteiros, e dizer se um nÃºmero Ã© mÃºltiplo do outro. Os
+nÃºmeros podem ser digitados em qualquer ordem.*/
 
     int primeiro, segundo;
 
