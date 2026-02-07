@@ -2,10 +2,10 @@
 
 int main(){
     /*Problema "soma_vetores"
-    Faça um programa para ler dois vetores A e B, contendo N elementos cada. Em seguida, gere um
-    terceiro vetor C onde cada elemento de C é a soma dos elementos correspondentes de A e B. Imprima
+    FaÃ§a um programa para ler dois vetores A e B, contendo N elementos cada. Em seguida, gere um
+    terceiro vetor C onde cada elemento de C Ã© a soma dos elementos correspondentes de A e B. Imprima
     o vetor C gerado.
-     The professor used printf outside the loop because it’s common not to repeat the title:
+     The professor used printf outside the loop because itâ€™s common not to repeat the title:
      #include <stdio.h>
 
 int main(){
