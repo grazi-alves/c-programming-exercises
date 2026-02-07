@@ -3,9 +3,9 @@
 int main(){
 
 /* problema "consumo"
-Fazer um programa para ler a distância total (em km) percorrida por um carro, bem como o total de
-combustível gasto por este carro ao percorrer tal distância. Seu programa deve mostrar o consumo
-médio do carro, com três casas decimais.*/
+Fazer um programa para ler a distÃ¢ncia total (em km) percorrida por um carro, bem como o total de
+combustÃ­vel gasto por este carro ao percorrer tal distÃ¢ncia. Seu programa deve mostrar o consumo
+mÃ©dio do carro, com trÃªs casas decimais.*/
 
     double combustivel, consumo;
     int distancia;
