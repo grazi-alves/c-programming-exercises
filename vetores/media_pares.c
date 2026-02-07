@@ -3,8 +3,8 @@
 int main(){
 
     /*Problema "media_pares "
-    Fazer um programa para ler um vetor de N números inteiros. Em seguida, mostrar na tela a média
-    aritmética somente dos números pares lidos, com uma casa decimal. Se nenhum número par for
+    Fazer um programa para ler um vetor de N nÃºmeros inteiros. Em seguida, mostrar na tela a mÃ©dia
+    aritmÃ©tica somente dos nÃºmeros pares lidos, com uma casa decimal. Se nenhum nÃºmero par for
     digitado, mostrar a mensagem "NENHUM NUMERO PAR" */
 
     int n;
