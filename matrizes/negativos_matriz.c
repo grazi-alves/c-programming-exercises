@@ -4,8 +4,8 @@
 int main(){
 
      /*Problema "negativos_matriz"
-    Ler dois números M e N (máximo = 10), e depois ler uma matriz MxN de números inteiros, conforme
-    exemplo. Em seguida, mostrar na tela somente os números negativos da matriz. */
+    Ler dois nÃºmeros M e N (mÃ¡ximo = 10), e depois ler uma matriz MxN de nÃºmeros inteiros, conforme
+    exemplo. Em seguida, mostrar na tela somente os nÃºmeros negativos da matriz. */
 
     int m, n;
 
