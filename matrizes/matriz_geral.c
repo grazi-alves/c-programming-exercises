@@ -3,15 +3,15 @@
 
     /*
     Problema "matriz_geral"
-    Ler uma matriz quadrada de ordem N (máximo = 10), contendo números reais. Em seguida, fazer as
-    seguintes ações:
+    Ler uma matriz quadrada de ordem N (mÃ¡ximo = 10), contendo nÃºmeros reais. Em seguida, fazer as
+    seguintes aÃ§Ãµes:
 
 
     a) calcular e imprimir a soma de todos os elementos positivos da matriz.
-    b) fazer a leitura do índice de uma linha da matriz e, daí, imprimir todos os elementos desta linha.
-    c) fazer a leitura do índice de uma coluna da matriz e, daí, imprimir todos os elementos desta coluna.
+    b) fazer a leitura do Ã­ndice de uma linha da matriz e, daÃ­, imprimir todos os elementos desta linha.
+    c) fazer a leitura do Ã­ndice de uma coluna da matriz e, daÃ­, imprimir todos os elementos desta coluna.
     d) imprimir os elementos da diagonal principal da matriz.
-    e) alterar a matriz elevando ao quadrado todos os números negativos da mesma. Em seguida imprimir
+    e) alterar a matriz elevando ao quadrado todos os nÃºmeros negativos da mesma. Em seguida imprimir
     a matriz alterada. */
 
 int main(){
