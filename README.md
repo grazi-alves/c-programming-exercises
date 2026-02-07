@@ -1,4 +1,3 @@
-# Exercícios em C
 
 # Exercícios em C
 
