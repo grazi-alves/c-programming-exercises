@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <math.h>
 /*Problema "baskara"
-Fazer um programa para ler os três coeficientes de uma equação do segundo grau. Usando a fórmula
-de Baskara, calcular e mostrar os valores das raízes x1 e x2 da equação com quatro casas decimais,
-conforme exemplo. Se a equação não possuir raízes reais, mostrar uma mensagem.
+Fazer um programa para ler os trÃªs coeficientes de uma equaÃ§Ã£o do segundo grau. Usando a fÃ³rmula
+de Baskara, calcular e mostrar os valores das raÃ­zes x1 e x2 da equaÃ§Ã£o com quatro casas decimais,
+conforme exemplo. Se a equaÃ§Ã£o nÃ£o possuir raÃ­zes reais, mostrar uma mensagem.
 */
 
 int main(){
