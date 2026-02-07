@@ -1,9 +1,11 @@
 # Exercícios em C
 
-Este repositório contém exercícios em linguagem C com foco nos fundamentos da linguagem,
-desenvolvimento da lógica de programação e conceitos de baixo nível.
+# Exercícios em C
 
-O objetivo é praticar resolução de problemas utilizando C, abordando temas como
-condicionais, laços de repetição, vetores, funções e noções básicas de memória.
+Este repositório contém exercícios em linguagem C com foco nos fundamentos da programação,
+desenvolvimento da lógica e conceitos básicos de programação de baixo nível.
 
-Os exercícios foram desenvolvidos e testados utilizando o Code::Blocks.
+Os estudos abordam estruturas sequenciais, estruturas condicionais, laços de repetição,
+vetores e matrizes, com o objetivo de fortalecer a base lógica e o raciocínio algorítmico.
+
+Os exercícios foram desenvolvidos e testados utilizando o Code::Blocks (GCC).
