@@ -2,7 +2,7 @@
 
 int main(){
 /*Problema "duracao"
-Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no
+Fazer um programa para ler uma duraÃ§Ã£o de tempo em segundos, daÃ­ imprimir na tela esta duraÃ§Ã£o no
 formato horas:minutos:segundos.*/
 
     int duracao, horas, minutos, segundos, resto;
