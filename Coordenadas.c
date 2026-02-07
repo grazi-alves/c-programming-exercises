@@ -5,15 +5,9 @@ int main(){
 Leia os valores das coordenadas X e Y de um ponto no plano
 cartesiano. A seguir, determine qual o quadrante ao qual pertence o
 ponto (Q1, Q2, Q3 ou Q4). Se o ponto estiver na origem, escreva a
-mensagem “Origem”. Se o ponto estiver sobre um dos eixos escreva
-“Eixo X” ou “Eixo Y”, conforme for a situação.
+mensagem ï¿½Origemï¿½. Se o ponto estiver sobre um dos eixos escreva
+ï¿½Eixo Xï¿½ ou ï¿½Eixo Yï¿½, conforme for a situaï¿½ï¿½o.
 
-Professor: Só mudou a análise final, ficou redundante o meu.
-
-else {
-    printf("Q4\n");
-
-}
 */
 
 

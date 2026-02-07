@@ -4,44 +4,10 @@ int main()
 {
     /*
     Problema "validacao_de_nota" (adaptado de URI 1117)
-    Faça um programa que leia as notas referentes às duas avaliações de um aluno. Calcule e imprima a
-    média semestral. Faça com que o algoritmo só aceite notas válidas (uma nota válida deve pertencer ao
+    Faï¿½a um programa que leia as notas referentes ï¿½s duas avaliaï¿½ï¿½es de um aluno. Calcule e imprima a
+    mï¿½dia semestral. Faï¿½a com que o algoritmo sï¿½ aceite notas vï¿½lidas (uma nota vï¿½lida deve pertencer ao
     intervalo [0,10]). Cada nota deve ser validada separadamente.
-    Não consegui fazer!
-    outro formato :
-    #include <stdio.h>
-
-int main() {
-
-    double nota1, nota2, media;
-
-    do {
-        printf("Digite a primeira nota: ");
-        scanf("%lf", &nota1);
-
-        if (nota1 < 0 || nota1 > 10) {
-            printf("Valor invalido! Tente novamente.\n");
-        }
-
-    } while (nota1 < 0 || nota1 > 10);
-
-    do {
-        printf("Digite a segunda nota: ");
-        scanf("%lf", &nota2);
-
-        if (nota2 < 0 || nota2 > 10) {
-            printf("Valor invalido! Tente novamente.\n");
-        }
-
-    } while (nota2 < 0 || nota2 > 10);
-
-    media = (nota1 + nota2) / 2;
-
-    printf("MEDIA = %.1lf\n", media);
-
-    return 0;
-}
-
+   
     */
 
 

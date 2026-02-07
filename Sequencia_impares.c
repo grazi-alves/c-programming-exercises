@@ -5,24 +5,9 @@ int main(){
 
     /*
 Problema "sequencia_impares" (adaptado de URI 1067)
-Leia um valor inteiro X. Em seguida mostre os ímpares de 1 até X, um valor por linha, inclusive o X,
+Leia um valor inteiro X. Em seguida mostre os ï¿½mpares de 1 atï¿½ X, um valor por linha, inclusive o X,
 se for o caso.
-Professor :#include <stdio.h>
 
-int main(){
-    int x;
-
-    printf("Digite o valor de X: ");
-    scanf("%d", &x);
-
-    for (int i=1; i<=x; i++) {
-        if (i % 2 != 0) {
-            printf("%d\n", i);
-        }
-    }
-
-    return 0;
-}
 */
 
     printf("Digite o valor de X: ");

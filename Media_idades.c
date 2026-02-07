@@ -3,33 +3,11 @@
 int main(){
 
 /*Problema "media_idades"
-Faça um programa para ler um número indeterminado de dados, contendo cada um, a idade de um
-indivíduo. O último dado, que não entrará nos cálculos, contém um valor de idade negativa. Calcular
-e imprimir a idade média deste grupo de indivíduos. Se for entrado um valor negativo na primeira vez,
+Faï¿½a um programa para ler um nï¿½mero indeterminado de dados, contendo cada um, a idade de um
+indivï¿½duo. O ï¿½ltimo dado, que nï¿½o entrarï¿½ nos cï¿½lculos, contï¿½m um valor de idade negativa. Calcular
+e imprimir a idade mï¿½dia deste grupo de indivï¿½duos. Se for entrado um valor negativo na primeira vez,
 mostrar a mensagem "IMPOSSIVEL CALCULAR".
 
-Fiz meu código errado:
-  int x, y, soma;
-    double media;
-
-    printf("Digite as idades: ");
-    scanf("%d %d", &x, &y);
-
-    soma = 0;
-    while(x > 0 && y > 0){
-         if(x < 0 && y < 0){
-           printf("IMPOSSIVEL CALCULAR");
-     }
-       else{
-        media  = (soma + y +  x)/2;
-        printf("MEDIA = %.2lf", media);
-       }
-    }
-
-
-    return 0;
-}
-forma correta a serguir:
 */
 
     int idade;

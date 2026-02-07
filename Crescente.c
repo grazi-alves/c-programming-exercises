@@ -7,10 +7,6 @@ Leia uma quantidade indeterminada de duplas de valores inteiros X e Y. Escreva p
 mensagem que indique se estes valores foram digitados em ordem crescente ou decrescente. O
 programa deve finalizar quando forem digitados dois valores iguais.
 
-Esse foi o código do professor. Fiz somente o while sem usar a condicional e o loop ficou infinito.
-
-
-
 */
 
     int x , y;
