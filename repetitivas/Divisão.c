@@ -5,8 +5,8 @@ int main()
 
     /*
         Problema "divisao" (adaptado de URI 1116)
-        Escreva um algoritmo que leia dois n˙meros e imprima o resultado da divis„o do primeiro pelo
-        segundo. Caso n„o for possÌvel, mostre a mensagem ìDIVISAO IMPOSSIVELî.*/
+        Escreva um algoritmo que leia dois n√∫meros e imprima o resultado da divis√£o do primeiro pelo
+        segundo. Caso n√£o for poss√≠vel, mostre a mensagem ‚ÄúDIVISAO IMPOSSIVEL‚Äù.*/
 
     int n, i;
     double numerador, denominador, divisao;
