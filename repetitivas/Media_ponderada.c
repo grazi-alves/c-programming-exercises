@@ -3,10 +3,10 @@
 int main()
 {
     /*Problema "media_ponderada" (adaptado de URI 1079)
-    Leia um valor inteiro N, que representa o número de casos de teste que vem a seguir. Cada caso de
-    teste consiste de 3 valores reais, para os quais você deverá calcular e mostrar a média ponderada, sendo
+    Leia um valor inteiro N, que representa o nÃºmero de casos de teste que vem a seguir. Cada caso de
+    teste consiste de 3 valores reais, para os quais vocÃª deverÃ¡ calcular e mostrar a mÃ©dia ponderada, sendo
     que o primeiro valor tem peso 2, o segundo valor tem peso 3 e o terceiro valor tem peso 5. Vale lembrar
-    que a média ponderada é a soma de todos os valores multiplicados pelo seu respectivo peso, dividida
+    que a mÃ©dia ponderada Ã© a soma de todos os valores multiplicados pelo seu respectivo peso, dividida
     pela soma dos pesos.*/
 
      int n, i;
