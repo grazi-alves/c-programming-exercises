@@ -3,9 +3,9 @@
 int main(){
 
     /* Problema "maior_posicao"
-    Faça um programa que leia N números reais e armazene-os em um vetor. Em seguida, mostrar na tela
-    o maior número do vetor (supor não haver empates). Mostrar também a posição do maior elemento,
-    considerando a primeira posição como 0 (zero). */
+    FaÃ§a um programa que leia N nÃºmeros reais e armazene-os em um vetor. Em seguida, mostrar na tela
+    o maior nÃºmero do vetor (supor nÃ£o haver empates). Mostrar tambÃ©m a posiÃ§Ã£o do maior elemento,
+    considerando a primeira posiÃ§Ã£o como 0 (zero). */
 
     int n, maior, posicao;
 
